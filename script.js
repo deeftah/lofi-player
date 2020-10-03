@@ -199,7 +199,7 @@ const state = {
   assets: {},
 };
 const assets = {
-  defaultBoardText: 'Vibert Thio 2020.',
+  defaultBoardText: 'Have a nice day',
   catIndex: 0,
   windowUrls: ['./assets/window-0.png', './assets/window-1.png'],
   avatarUrls: [`./assets/avatar-1-0.png`, `./assets/avatar-1-1.png`, `./assets/avatar-1-2.png`],
